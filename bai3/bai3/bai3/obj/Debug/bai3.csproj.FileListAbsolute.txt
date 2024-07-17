@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_B2\bai3\bai3\bai3\bin\Debug\bai3.exe.config
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_B2\bai3\bai3\bai3\obj\Debug\bai3.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_B2\bai3\bai3\bai3\bin\Debug\bai3.exe
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_B2\bai3\bai3\bai3\bin\Debug\bai3.pdb
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_B2\bai3\bai3\bai3\obj\Debug\bai3.exe
+E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_B2\bai3\bai3\bai3\obj\Debug\bai3.pdb
