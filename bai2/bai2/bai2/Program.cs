@@ -80,12 +80,12 @@ public class MergeSortAlgorithm
         int[] A = { 12, 11, 13, 5, 6, 7 };
         int n = A.Length;
 
-        Console.WriteLine("Mảng ban đầu:");
+        Console.WriteLine("Mang ban dau:");
         PrintArray(A);
 
         MergeSort(A, 0, n - 1);
 
-        Console.WriteLine("\nMảng sau khi sắp xếp Merge Sort:");
+        Console.WriteLine("\nMang sau khi sap xep Merge Sort:");
         PrintArray(A);
     }
 

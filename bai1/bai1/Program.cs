@@ -30,7 +30,7 @@ public class BinarySearchAlgorithm
 
     public static void Main(string[] args)
     {
-        int[] A = { 2, 4, 6, 8, 11, 12, 14, 16, 18, 20 };
+        int[] A = { 2, 4, 6, 8, 11, 12, 13, 14, 16, 18, 20 };
         int n = A.Length;
         int key = 10;
 
@@ -42,7 +42,7 @@ public class BinarySearchAlgorithm
         }
         else
         {
-            Console.WriteLine("Khong tim thay phan tu {key} trong mang");
+            Console.WriteLine("Khong tim thay phan tu trong mang");
         }
     }
 }

@@ -4,3 +4,10 @@ E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_B2\bai2\bai2\bai2\bin\Debug\bai2.pdb
 E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_B2\bai2\bai2\bai2\obj\Debug\bai2.csprojResolveAssemblyReference.cache
 E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_B2\bai2\bai2\bai2\obj\Debug\bai2.exe
 E:\LuuDuLieuSinhVien\00_NguyenPhiCuong_B2\bai2\bai2\bai2\obj\Debug\bai2.pdb
+C:\Users\cuong\OneDrive\Máy tính\NguyenPhiCuong_Buoi2\NguyenPhiCuong_Buoi2\bai2\bai2\bai2\bin\Debug\bai2.exe.config
+C:\Users\cuong\OneDrive\Máy tính\NguyenPhiCuong_Buoi2\NguyenPhiCuong_Buoi2\bai2\bai2\bai2\bin\Debug\bai2.exe
+C:\Users\cuong\OneDrive\Máy tính\NguyenPhiCuong_Buoi2\NguyenPhiCuong_Buoi2\bai2\bai2\bai2\bin\Debug\bai2.pdb
+C:\Users\cuong\OneDrive\Máy tính\NguyenPhiCuong_Buoi2\NguyenPhiCuong_Buoi2\bai2\bai2\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+C:\Users\cuong\OneDrive\Máy tính\NguyenPhiCuong_Buoi2\NguyenPhiCuong_Buoi2\bai2\bai2\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+C:\Users\cuong\OneDrive\Máy tính\NguyenPhiCuong_Buoi2\NguyenPhiCuong_Buoi2\bai2\bai2\bai2\obj\Debug\bai2.exe
+C:\Users\cuong\OneDrive\Máy tính\NguyenPhiCuong_Buoi2\NguyenPhiCuong_Buoi2\bai2\bai2\bai2\obj\Debug\bai2.pdb
